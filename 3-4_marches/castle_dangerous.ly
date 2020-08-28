@@ -1,3 +1,13 @@
+\include "../bagpipe_new.ly"
+\version "2.20.0"
+
+\header {
+  meter = "Retreat"
+  title = "Castle Dangerous"
+  composer = "J. Haugh"
+}
+
+
 \score {
 
   {
@@ -34,10 +44,5 @@
     }
   }
 
-  \header {
-    meter = "Retreat"
-    title = "Castle Dangerous"
-    composer = "J. Haugh"
-  }
 
 }
